@@ -4,6 +4,16 @@
   <span style="vertical-align: middle;">Sdalcal</span>
 </h1>-->
 
+![Maintenance](https://img.shields.io/badge/maintenance-no_longer_supported-red)
+<p style="font-size: 14pt">
+  This repository is deprecated. You can find the current project repository here:
+</p>
+<a href="https://github.com/artur-S213/sdalcal", style="font-size: 14pt">
+  https://github.com/artur-S213/sdalcal
+</a>
+
+<p style="height: 50pt;"></p>
+
 <p align="center">
   <img src="icons/icon.png" width="128" alt="Sdalcal Logo">
 </p>
@@ -16,7 +26,6 @@
 
 <!-- ![Status: Deprecated](https://img.shields.io/badge/Status-in%20Development-red) -->
 <!-- ![Deprecated](https://img.shields.io/badge/status-deprecated-red) -->
-![Maintenance](https://img.shields.io/badge/maintenance-no_longer_supported-red)
 
 Sdalcal stands for "Sounddelay-and-Level-Calculator" and calculates the sounddelay between two louspeaker positions with a given distance and the soundlevel for the second loudspeakers.
 
